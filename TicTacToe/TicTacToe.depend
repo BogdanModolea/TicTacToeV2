@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579547652 source:c:\users\bogdan\desktop\tictactoe\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"rules.h"
+
+1579547899 c:\users\bogdan\desktop\tictactoe\rules.h
+	<bits/stdc++.h>
+
